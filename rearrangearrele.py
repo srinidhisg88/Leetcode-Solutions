@@ -3,7 +3,7 @@ rearrange array elements by postive and negative
 '''
 class Solution:
     def rearrange(self,a):
-        pi=0
+        
         pi=0
         ni=1
         res=[]
