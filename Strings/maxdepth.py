@@ -1,4 +1,4 @@
-class Solution(Object):
+class Solution(object):
     def maxDepth(self,s:str)->int:
         count=0
         maxcnt=0
