@@ -1,4 +1,5 @@
 class Solution:
+    
     def maxProduct(self, nums: List[int]) -> int:
         ## using 2 pointer approach
         # maxprod=nums[0]
