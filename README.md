@@ -1,2 +1,2 @@
-This repository contains the solutions for the leetcode's problems in python.
+This repository contains the solutions for  leetcode problems in python.
 
